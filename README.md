@@ -67,18 +67,60 @@ Además, continúo especializándome en el ecosistema Microsoft para el desarrol
 
 # 📂 Portfolio
 
-Actualmente estoy desarrollando proyectos personales con el objetivo de seguir fortaleciendo mi experiencia práctica y compartir soluciones aplicadas a problemas reales.
+Mi portfolio reúne proyectos desarrollados en distintas áreas donde convergen la ingeniería, el análisis de datos y la inteligencia artificial. Cada proyecto busca resolver un problema concreto utilizando herramientas modernas de Data Analytics, Business Intelligence y Machine Learning.
 
-Algunos de los proyectos que estarán disponibles próximamente son:
+---
 
-- 📈 Forecasting aplicado a logística
-- 🚚 Optimización de costos de transporte
-- 📊 Dashboards ejecutivos en Power BI
-- 🤖 Clasificación de imágenes mediante Embeddings
-- ☀️ Analítica para Energías Renovables
-- 🔋 Sistemas híbridos para producción de Hidrógeno Verde
+## ✅ Proyectos finalizados
 
-> 🚧 Nuevos proyectos serán publicados periódicamente en este perfil.
+### ⚡ Energy Analytics
+
+- 🌍 **Análisis exploratorio del consumo energético mundial**
+  
+  Desarrollo de un proyecto de análisis exploratorio y descriptivo utilizando datos abiertos provenientes de Kaggle (Banco Mundial), culminando con la construcción de un dashboard interactivo en Power BI para analizar la evolución del acceso energético, consumo-producción de energía y emisiones de CO2 a nivel mundial.
+
+- ⚡ **Predicción del precio de la energía eléctrica en España**
+
+  Proyecto de Data Science enfocado en el desarrollo de modelos predictivos para estimar el precio de la energía eléctrica utilizando más de cuatro años de datos históricos obtenidos desde Kaggle. El proyecto incluye análisis exploratorio, ingeniería de variables, entrenamiento y evaluación de modelos de Machine Learning.
+
+---
+
+## 🚀 Proyectos en desarrollo
+
+### 🏭 Industrial Analytics
+
+- 📈 Forecasting aplicado a logística.
+- 🚚 Optimización de costos de transporte.
+- 📊 Dashboards ejecutivos en Power BI para soporte a la toma de decisiones.
+
+### 🤖 Artificial Intelligence
+
+- 🖼️ Clasificación de imágenes mediante Embeddings y Computer Vision.
+
+### ⚡ Energy Analytics
+
+- 🔋 Modelado y optimización de sistemas híbridos para abastecer plantas industriales dedicadas a la producción de Hidrógeno Verde.
+
+---
+
+## 🎯 Proyecto de mentoría
+
+- 🏨 **Sistema inteligente para la detección de ofertas hoteleras**
+
+  Desarrollo de una solución basada en análisis de datos y Machine Learning para identificar oportunidades de reserva hotelera con potencial ahorro para el usuario. El proyecto contempla automatización del procesamiento de datos, análisis de patrones de precios y construcción de modelos predictivos para detectar ofertas relevantes de manera temprana.
+
+---
+
+## 🧪 Proyectos personales
+
+- 🎮 **Laboratorio cuantitativo aplicado a la economía de World of Warcraft**
+
+  Proyecto personal orientado al análisis de la economía interna del videojuego *World of Warcraft*. El objetivo es diseñar estrategias cuantitativas para la compra y venta de objetos dentro del sistema de subastas mediante análisis de datos, modelado estadístico y automatización, utilizando el videojuego como entorno de experimentación para desarrollar habilidades transferibles al análisis de mercados.
+
+---
+
+> 🚧 Este perfil se encuentra en constante evolución. Continuaré publicando nuevos proyectos junto con su documentación técnica, metodología, resultados y aprendizajes obtenidos durante el desarrollo.
+
 
 ---
 
